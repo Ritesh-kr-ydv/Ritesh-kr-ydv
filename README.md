@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148222500.jpg?w=740&t=st=1725387636~exp=1725388236~hmac=37d0719d74a39ccc7d2542f8617eb436aff01eb285fe8c1d341e36063481e562">
+<img align="right" alt="coding" width="400" heigth="200" src="https://img.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148222500.jpg?w=740&t=st=1725387636~exp=1725388236~hmac=37d0719d74a39ccc7d2542f8617eb436aff01eb285fe8c1d341e36063481e562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-kr-ydv&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-kr-ydv" /> </p>
 
