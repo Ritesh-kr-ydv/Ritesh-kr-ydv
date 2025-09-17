@@ -31,16 +31,17 @@
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-kr-ydv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://YOUR_VERCEL_APP_URL/api?username=ritesh-kr-ydv&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-kr-ydv&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ritesh-kr-ydv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-kr-ydv&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-kr-ydv&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
