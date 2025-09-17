@@ -32,9 +32,6 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://YOUR_VERCEL_APP_URL/api?username=ritesh-kr-ydv&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ritesh-kr-ydv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
