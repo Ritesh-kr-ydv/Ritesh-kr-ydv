@@ -33,9 +33,7 @@
 ### 📊 GitHub Stats  
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritesh-kr-ydv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh-kr-ydv&theme=tokyo-night" alt="GitHub Activity Graph" />
